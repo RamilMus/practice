@@ -1,2 +1,2 @@
 # practice
-something that I do for practicing
+*something that I do for practicing
