@@ -2,7 +2,7 @@
  *something that I do for practicing*
 
 ### fizzbuzz
- *recreation of popular coding exercise*
+ *recreation of popular coding exercise in C language using only write function*
  
  *to compile it write in your terminal*
 ```
