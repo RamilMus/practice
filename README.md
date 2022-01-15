@@ -6,5 +6,5 @@
  
  *to compile it write in your terminal*
 ```
-	gcc fizzbuzz.c  -o fizzbuzz && ./fizzbuzz
+	gcc fizzbuzz.c  -o fizzbuz && ./fizzbuz
 ```
