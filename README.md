@@ -1,6 +1,6 @@
 # practice
  *something that I do for practicing*
-
+test
 ### fizzbuzz
  *recreation of popular coding exercise in C language using only write function*
  
